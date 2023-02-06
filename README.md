@@ -15,12 +15,14 @@ My personal research is to create a micromouse. The micromouse is a small robot 
 2022	Entered Graduate School of Science and Technology, Shizuoka Univesity
 
 ## Education
-* Bachelor of Engineering, 2022.
+Bachelor of Engineering, 2022.
 Shizuoka University, Japan.
+
 ## Articles
 1. Grid-based Estimation of Transformation Between Partial Relationships Using a Genetic Algorithm
 Sota Nakamura, Yuichi Kobayashi, and Taisei Matsuura
 Journal of Robotics and Mechatronics, Vol.34, No.4, pp.786-794, 2022.
+
 ## Talks
 1. Model of Adaptation Mimicking Brain Plasticity and Coordinate Transformation Estimation
 Sota Nakamura, Yuichi Kobayashi
