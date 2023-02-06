@@ -1,1 +1,0 @@
-# sotanakamura.github.io
